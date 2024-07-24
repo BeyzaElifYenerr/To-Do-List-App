@@ -1,0 +1,103 @@
+/* Notes.css */
+
+.notes-page {
+  position: relative;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+/* Ayarlar butonu */
+.settings-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.settings-button:hover {
+  background-color: #0056b3;
+}
+
+/* Notlar içerik alanı */
+.notes-content {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Not ekleme butonu */
+.notes-content form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.notes-content input,
+.notes-content textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.notes-content button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.notes-content button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+/* Notlar listesi */
+.notes-content ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.notes-content li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.notes-content li h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.notes-content li p {
+  margin: 5px 0 0;
+}
+
+/* Düzenle ve Sil butonları */
+.notes-content button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-right: 5px;
+  transition: background-color 0.3s;
+}
+
+.notes-content button:hover {
+  background-color: #0056b3;
+}

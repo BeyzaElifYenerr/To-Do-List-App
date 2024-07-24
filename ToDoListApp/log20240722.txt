@@ -1,0 +1,194 @@
+2024-07-22 10:56:51.279 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 10:56:54.956 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 10:56:56.095 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 10:56:56.096 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 10:59:55.531 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 10:59:56.211 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 10:59:56.906 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 10:59:56.907 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 11:44:41.279 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 11:44:42.046 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 11:44:42.603 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 11:44:42.604 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 11:45:39.780 +03:00 [INF] User login attempt with username beyza.
+2024-07-22 11:45:41.232 +03:00 [INF] User beyza logged in successfully.
+2024-07-22 11:46:01.827 +03:00 [INF] Adding new user with username emre.
+2024-07-22 11:46:01.959 +03:00 [INF] User with username emre added successfully.
+2024-07-22 11:48:22.861 +03:00 [INF] Updating note with ID 7.
+2024-07-22 11:48:23.028 +03:00 [INF] Note with ID 7 updated successfully.
+2024-07-22 11:48:50.548 +03:00 [INF] Deleting note with ID 7.
+2024-07-22 11:48:50.560 +03:00 [INF] Note with ID 7 marked as deleted.
+2024-07-22 11:48:54.604 +03:00 [INF] Deleting note with ID 7.
+2024-07-22 11:48:54.609 +03:00 [INF] Note with ID 7 marked as deleted.
+2024-07-22 11:58:58.436 +03:00 [INF] User login attempt with username elif.
+2024-07-22 11:58:58.442 +03:00 [INF] User elif logged in successfully.
+2024-07-22 11:58:58.474 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 11:58:58.506 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 12:03:05.421 +03:00 [INF] User login attempt with username elif.
+2024-07-22 12:03:05.425 +03:00 [INF] User elif logged in successfully.
+2024-07-22 12:05:20.749 +03:00 [INF] User login attempt with username elif.
+2024-07-22 12:05:20.753 +03:00 [INF] User elif logged in successfully.
+2024-07-22 12:05:20.767 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 12:05:20.772 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 12:16:35.272 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 12:16:38.797 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 12:16:39.847 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 12:16:39.848 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 12:17:28.757 +03:00 [INF] User login attempt with username beyza.
+2024-07-22 12:17:30.186 +03:00 [INF] User beyza logged in successfully.
+2024-07-22 12:17:49.617 +03:00 [INF] Adding new user with username emir.
+2024-07-22 12:17:49.735 +03:00 [INF] User with username emir added successfully.
+2024-07-22 12:49:19.586 +03:00 [INF] User login attempt with username elif.
+2024-07-22 12:49:19.632 +03:00 [INF] User elif logged in successfully.
+2024-07-22 12:49:19.650 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 12:49:19.719 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 12:51:22.493 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 12:51:23.233 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 12:51:23.749 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 12:51:23.751 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 12:51:40.512 +03:00 [INF] Adding new user with username semih.
+2024-07-22 12:51:41.671 +03:00 [INF] User with username semih added successfully.
+2024-07-22 12:52:05.645 +03:00 [INF] Adding new user with username kaan.
+2024-07-22 12:52:05.662 +03:00 [INF] User with username kaan added successfully.
+2024-07-22 13:29:04.496 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 13:29:05.229 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 13:29:05.815 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 13:29:05.816 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 13:31:52.011 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 13:31:52.685 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 13:31:53.180 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 13:31:53.182 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 13:32:05.036 +03:00 [INF] User login attempt with username beyza.
+2024-07-22 13:32:06.126 +03:00 [INF] User beyza logged in successfully.
+2024-07-22 13:32:19.018 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 13:32:19.037 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 13:32:31.858 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 13:32:31.914 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 13:33:26.639 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 13:33:26.641 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 13:33:26.690 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 13:33:26.738 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 13:33:26.762 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 13:33:26.766 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 13:33:45.614 +03:00 [INF] Adding new user with username abcd.
+2024-07-22 13:33:45.703 +03:00 [INF] User with username abcd added successfully.
+2024-07-22 14:38:21.492 +03:00 [INF] User login attempt with username beyza.
+2024-07-22 14:38:21.500 +03:00 [INF] User beyza logged in successfully.
+2024-07-22 14:38:21.516 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 14:38:21.535 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 14:38:41.951 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 14:38:41.956 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 14:38:49.651 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 14:38:49.653 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 14:38:49.667 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 14:38:49.669 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 14:38:49.671 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 14:38:49.673 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:01:53.807 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:01:53.816 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:01:53.829 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:01:53.832 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:01:53.834 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:01:53.835 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:04:50.740 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:04:50.744 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:04:50.761 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:04:50.763 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:04:50.765 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:04:50.767 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:14:11.868 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:14:11.874 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:14:11.895 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:14:11.901 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:14:11.939 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:14:11.959 +03:00 [INF] No notes found for user ID 11.
+2024-07-22 15:14:22.018 +03:00 [INF] Adding new note for user ID 11.
+2024-07-22 15:14:22.045 +03:00 [INF] Note added successfully for user ID 11.
+2024-07-22 15:14:24.533 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:14:24.543 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:16:02.058 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:16:02.062 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:20:53.110 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 15:20:53.803 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 15:20:54.519 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 15:20:54.520 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 15:21:11.842 +03:00 [INF] User login attempt with username abcd.
+2024-07-22 15:21:13.140 +03:00 [INF] User abcd logged in successfully.
+2024-07-22 15:21:46.831 +03:00 [INF] Deleting user with ID 12.
+2024-07-22 15:21:46.934 +03:00 [INF] User with ID 12 deleted successfully.
+2024-07-22 15:22:53.586 +03:00 [INF] Updating user with ID 12.
+2024-07-22 15:22:53.633 +03:00 [WRN] User with ID 12 not found for update.
+2024-07-22 15:23:24.272 +03:00 [INF] Adding new user with username memo.
+2024-07-22 15:23:24.314 +03:00 [INF] User with username memo added successfully.
+2024-07-22 15:23:31.668 +03:00 [INF] Updating user with ID 12.
+2024-07-22 15:23:31.671 +03:00 [WRN] User with ID 12 not found for update.
+2024-07-22 15:23:47.459 +03:00 [INF] Updating user with ID 12.
+2024-07-22 15:23:47.461 +03:00 [WRN] User with ID 12 not found for update.
+2024-07-22 15:24:05.617 +03:00 [INF] Updating user with ID 13.
+2024-07-22 15:24:05.624 +03:00 [INF] User with ID 13 updated successfully.
+2024-07-22 15:25:33.506 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:25:33.509 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:25:33.526 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:25:33.581 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:25:41.583 +03:00 [INF] Updating user with ID 11.
+2024-07-22 15:25:41.588 +03:00 [INF] User with ID 11 updated successfully.
+2024-07-22 15:26:08.752 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:26:08.761 +03:00 [INF] Fetching notes for user ID 11.
+2024-07-22 15:26:16.125 +03:00 [INF] Adding new user with username abcd.
+2024-07-22 15:26:16.130 +03:00 [INF] User with username abcd added successfully.
+2024-07-22 15:26:23.918 +03:00 [INF] User login attempt with username abcd.
+2024-07-22 15:26:23.921 +03:00 [INF] User abcd logged in successfully.
+2024-07-22 15:26:23.934 +03:00 [INF] Fetching notes for user ID 14.
+2024-07-22 15:26:23.937 +03:00 [INF] No notes found for user ID 14.
+2024-07-22 15:26:23.954 +03:00 [INF] Fetching notes for user ID 14.
+2024-07-22 15:26:23.969 +03:00 [INF] No notes found for user ID 14.
+2024-07-22 15:26:30.709 +03:00 [INF] Deleting user with ID 14.
+2024-07-22 15:26:30.714 +03:00 [INF] User with ID 14 deleted successfully.
+2024-07-22 15:45:47.247 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 15:45:47.929 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 15:45:48.434 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 15:45:48.436 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 15:46:04.967 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:46:06.213 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:46:27.366 +03:00 [INF] Deleting user with ID 13.
+2024-07-22 15:46:27.471 +03:00 [INF] User with ID 13 deleted successfully.
+2024-07-22 15:48:51.583 +03:00 [INF] Adding new user with username memo.
+2024-07-22 15:48:51.660 +03:00 [INF] User with username memo added successfully.
+2024-07-22 15:49:01.183 +03:00 [INF] Deleting user with ID 14.
+2024-07-22 15:49:01.187 +03:00 [WRN] User with ID 14 not found for deletion.
+2024-07-22 15:49:17.901 +03:00 [INF] Deleting user with ID 15.
+2024-07-22 15:49:17.907 +03:00 [INF] User with ID 15 deleted successfully.
+2024-07-22 15:56:49.337 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-22 15:56:50.108 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 15:56:50.944 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 15:56:50.945 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 15:57:02.841 +03:00 [INF] User login attempt with username kaan.
+2024-07-22 15:57:03.871 +03:00 [INF] User kaan logged in successfully.
+2024-07-22 15:57:39.387 +03:00 [INF] Adding new user with username memo.
+2024-07-22 15:57:39.517 +03:00 [INF] User with username memo added successfully.
+2024-07-22 15:57:53.835 +03:00 [INF] Deleting user with ID 16.
+2024-07-22 15:57:53.896 +03:00 [INF] User with ID 16 deleted successfully.
+2024-07-22 15:58:21.887 +03:00 [INF] User login attempt with username memo.
+2024-07-22 15:58:21.891 +03:00 [WRN] Invalid login attempt for username memo.
+2024-07-22 15:58:28.390 +03:00 [INF] User login attempt with username memo.
+2024-07-22 15:58:28.392 +03:00 [WRN] Invalid login attempt for username memo.
+2024-07-22 15:58:58.984 +03:00 [INF] User login attempt with username beyza.
+2024-07-22 15:58:58.987 +03:00 [INF] User beyza logged in successfully.
+2024-07-22 15:58:59.010 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 15:58:59.076 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 15:59:07.560 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 15:59:07.569 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-22 15:59:13.559 +03:00 [INF] User login attempt with username memo.
+2024-07-22 15:59:13.561 +03:00 [WRN] Invalid login attempt for username memo.
+2024-07-22 15:59:14.805 +03:00 [INF] User login attempt with username memo.
+2024-07-22 15:59:14.807 +03:00 [WRN] Invalid login attempt for username memo.
+2024-07-22 15:59:45.138 +03:00 [INF] Adding new user with username memo.
+2024-07-22 15:59:45.144 +03:00 [INF] User with username memo added successfully.
+2024-07-22 16:00:15.322 +03:00 [INF] User login attempt with username memo.
+2024-07-22 16:00:15.326 +03:00 [INF] User memo logged in successfully.
+2024-07-22 16:00:15.339 +03:00 [INF] Fetching notes for user ID 17.
+2024-07-22 16:00:15.342 +03:00 [INF] No notes found for user ID 17.
+2024-07-22 16:00:15.355 +03:00 [INF] Fetching notes for user ID 17.
+2024-07-22 16:00:15.357 +03:00 [INF] No notes found for user ID 17.
+2024-07-22 16:00:22.017 +03:00 [INF] Deleting user with ID 17.
+2024-07-22 16:00:22.022 +03:00 [INF] User with ID 17 deleted successfully.

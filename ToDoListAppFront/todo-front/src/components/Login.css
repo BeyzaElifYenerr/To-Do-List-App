@@ -1,0 +1,61 @@
+/* Login.css */
+
+/* Genel sayfa stili */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Tam ekran yüksekliği */
+    background-color: #f9f9f9;
+  }
+  
+  /* Form stili */
+  .login-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 300px; /* Form genişliği */
+  }
+  
+  /* Giriş ve kayıt butonları için stil */
+  .login-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+    width: 100%; /* Butonun tam genişlikte olması için */
+  }
+  
+  .login-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-form .btn-secondary {
+    background-color: #6c757d;
+    margin-top: 10px;
+  }
+  
+  .login-form .btn-secondary:hover {
+    background-color: #5a6268;
+  }
+  
+  /* Etiket ve giriş alanı stili */
+  .login-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  

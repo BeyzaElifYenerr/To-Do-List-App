@@ -1,0 +1,502 @@
+2024-07-24 09:54:48.253 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 09:54:51.756 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 09:54:52.720 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 09:54:52.721 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 09:55:20.847 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 09:55:22.072 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 09:55:22.158 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 09:55:22.253 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 09:55:31.068 +03:00 [INF] User login attempt with username elif.
+2024-07-24 09:55:31.072 +03:00 [INF] User elif logged in successfully.
+2024-07-24 09:55:31.089 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 09:55:31.095 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 09:58:53.104 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 09:58:53.109 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 09:58:53.122 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 09:58:53.151 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:06:35.241 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:06:35.247 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:06:35.301 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:06:35.307 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:06:46.197 +03:00 [INF] User login attempt with username elif.
+2024-07-24 10:06:46.199 +03:00 [INF] User elif logged in successfully.
+2024-07-24 10:06:46.211 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 10:06:46.216 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 10:12:29.734 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:12:29.737 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:14:45.623 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 10:14:46.362 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 10:14:47.293 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 10:14:47.294 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 10:14:58.544 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:14:59.704 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:15:32.692 +03:00 [INF] Updating user with ID 1.
+2024-07-24 10:15:32.787 +03:00 [INF] User with ID 1 updated successfully.
+2024-07-24 10:16:21.411 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:16:21.466 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:16:39.721 +03:00 [INF] Fetching all users.
+2024-07-24 10:16:48.741 +03:00 [INF] Fetching all notes for user ID 1.
+2024-07-24 10:17:11.167 +03:00 [INF] User login attempt with username elif.
+2024-07-24 10:17:11.169 +03:00 [INF] User elif logged in successfully.
+2024-07-24 10:17:38.607 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 10:17:54.681 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:17:54.685 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:18:13.667 +03:00 [INF] Fetching all users.
+2024-07-24 10:19:21.887 +03:00 [INF] Adding new user with username kaan.
+2024-07-24 10:19:21.931 +03:00 [INF] User with username kaan added successfully.
+2024-07-24 10:19:36.770 +03:00 [INF] Deleting user with ID 22.
+2024-07-24 10:19:36.775 +03:00 [INF] User with ID 22 deleted successfully.
+2024-07-24 10:20:26.531 +03:00 [INF] Updating user with ID 1.
+2024-07-24 10:20:26.533 +03:00 [INF] User with ID 1 updated successfully.
+2024-07-24 10:35:33.268 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:35:33.274 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:35:33.291 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:35:33.299 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:55:36.685 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 10:55:36.692 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 10:55:36.706 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:55:36.736 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:57:26.646 +03:00 [INF] Fetching all users.
+2024-07-24 10:57:26.655 +03:00 [INF] Fetching all users.
+2024-07-24 10:57:38.505 +03:00 [INF] Fetching all users.
+2024-07-24 10:57:38.510 +03:00 [INF] Fetching all users.
+2024-07-24 10:57:53.105 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:57:53.111 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 10:58:02.433 +03:00 [INF] Fetching all users.
+2024-07-24 10:58:02.442 +03:00 [INF] Fetching all users.
+2024-07-24 10:59:54.603 +03:00 [INF] Fetching all users.
+2024-07-24 10:59:55.878 +03:00 [INF] Fetching all users.
+2024-07-24 11:00:57.959 +03:00 [INF] Fetching all users.
+2024-07-24 11:00:59.015 +03:00 [INF] Fetching all users.
+2024-07-24 11:04:27.614 +03:00 [INF] Fetching all users.
+2024-07-24 11:04:28.350 +03:00 [INF] Fetching all users.
+2024-07-24 11:04:36.556 +03:00 [INF] Fetching all users.
+2024-07-24 11:04:58.393 +03:00 [INF] Fetching all users.
+2024-07-24 11:05:28.394 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:05:28.396 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:05:28.407 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:05:28.411 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:05:41.051 +03:00 [INF] Fetching all users.
+2024-07-24 11:05:41.055 +03:00 [INF] Fetching all users.
+2024-07-24 11:06:47.749 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:06:47.752 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:06:47.764 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 11:06:47.768 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 11:08:53.087 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:08:53.101 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:08:53.120 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:08:53.140 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:11:49.069 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:11:49.072 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:11:49.083 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:11:49.091 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:12:26.280 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:12:26.282 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:12:26.296 +03:00 [INF] Fetching all users.
+2024-07-24 11:12:26.300 +03:00 [INF] Fetching all users.
+2024-07-24 11:13:13.367 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:13:13.368 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:20:39.374 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:20:39.381 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:20:39.396 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:20:39.401 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:24:10.390 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:24:10.392 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:24:10.436 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:24:10.441 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:25:17.053 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:25:17.058 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:25:17.085 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:25:17.091 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:25:21.984 +03:00 [INF] Fetching all users.
+2024-07-24 11:25:21.988 +03:00 [INF] Fetching all users.
+2024-07-24 11:38:44.232 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:44.239 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:45.930 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:45.931 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:48.598 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:48.601 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:48.932 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:48.933 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:49.265 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:49.269 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:50.752 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:50.755 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:50.956 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:38:50.957 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:38:57.032 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:57.033 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:57.362 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:57.363 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:57.553 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:57.555 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:57.766 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:57.767 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:58.038 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:58.039 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:58.274 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:58.276 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:58.450 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:58.451 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:38:58.625 +03:00 [INF] User login attempt with username elif.
+2024-07-24 11:38:58.627 +03:00 [INF] User elif logged in successfully.
+2024-07-24 11:39:32.900 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:39:32.901 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:39:32.913 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:39:32.918 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:40:04.365 +03:00 [INF] Fetching all users.
+2024-07-24 11:40:04.370 +03:00 [INF] Fetching all users.
+2024-07-24 11:40:34.495 +03:00 [INF] Adding new user with username kaan.
+2024-07-24 11:40:34.500 +03:00 [INF] User with username kaan added successfully.
+2024-07-24 11:40:47.276 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:40:47.278 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:40:47.291 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:40:47.294 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:40:50.508 +03:00 [INF] Fetching all users.
+2024-07-24 11:40:50.511 +03:00 [INF] Fetching all users.
+2024-07-24 11:40:54.499 +03:00 [INF] Deleting user with ID 23.
+2024-07-24 11:40:54.503 +03:00 [INF] User with ID 23 deleted successfully.
+2024-07-24 11:57:17.383 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 11:57:17.389 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 11:57:17.402 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:57:17.406 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:59:52.151 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 11:59:52.159 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:00:05.094 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:00:05.097 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:00:05.110 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:00:05.113 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:00:22.929 +03:00 [INF] User login attempt with username elif.
+2024-07-24 12:00:22.930 +03:00 [INF] User elif logged in successfully.
+2024-07-24 12:00:22.942 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:00:22.945 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:03:31.161 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:03:43.934 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:03:43.936 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:03:43.951 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:03:44.033 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:03:48.831 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:03:48.835 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:03:53.981 +03:00 [INF] Fetching all users.
+2024-07-24 12:03:53.985 +03:00 [INF] Fetching all users.
+2024-07-24 12:04:06.494 +03:00 [INF] User login attempt with username elif.
+2024-07-24 12:04:06.497 +03:00 [INF] User elif logged in successfully.
+2024-07-24 12:04:06.512 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:04:06.516 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:05:43.666 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:05:43.668 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:05:43.680 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:05:43.724 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:05:55.395 +03:00 [INF] User login attempt with username elif.
+2024-07-24 12:05:55.396 +03:00 [INF] User elif logged in successfully.
+2024-07-24 12:05:55.411 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:05:55.415 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:05:58.443 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:05:58.446 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:05:59.548 +03:00 [INF] Adding new note for user ID 2.
+2024-07-24 12:05:59.578 +03:00 [INF] Note added successfully for user ID 2.
+2024-07-24 12:06:36.522 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:06:36.524 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:06:36.541 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:06:36.546 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:06:44.971 +03:00 [INF] Fetching all users.
+2024-07-24 12:06:44.977 +03:00 [INF] Fetching all users.
+2024-07-24 12:06:54.807 +03:00 [INF] User login attempt with username elif.
+2024-07-24 12:06:54.808 +03:00 [INF] User elif logged in successfully.
+2024-07-24 12:06:54.819 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:06:54.822 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:08:26.151 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:08:26.155 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:08:26.170 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:08:26.174 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:09:16.613 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:09:16.624 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:09:39.667 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:09:39.705 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:10:09.804 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:10:09.806 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:10:47.746 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:10:47.748 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:10:47.762 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:10:47.766 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:41:45.819 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:41:45.833 +03:00 [INF] Fetching notes for user ID 1.
+2024-07-24 12:42:10.391 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:42:10.393 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:42:18.916 +03:00 [INF] Fetching all users.
+2024-07-24 12:42:19.374 +03:00 [INF] Fetching all users.
+2024-07-24 12:42:59.761 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:42:59.792 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:42:59.806 +03:00 [INF] Fetching all users.
+2024-07-24 12:42:59.815 +03:00 [INF] Fetching all users.
+2024-07-24 12:43:22.058 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 12:43:22.062 +03:00 [INF] User with username anıl added successfully.
+2024-07-24 12:43:30.273 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 12:43:30.275 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 12:43:30.287 +03:00 [INF] Fetching all users.
+2024-07-24 12:43:30.290 +03:00 [INF] Fetching all users.
+2024-07-24 12:43:32.209 +03:00 [INF] Deleting user with ID 24.
+2024-07-24 12:43:32.213 +03:00 [INF] User with ID 24 deleted successfully.
+2024-07-24 12:43:42.142 +03:00 [INF] User login attempt with username elif.
+2024-07-24 12:43:42.144 +03:00 [INF] User elif logged in successfully.
+2024-07-24 12:43:42.161 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:43:42.165 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 12:43:54.507 +03:00 [INF] Adding new note for user ID 2.
+2024-07-24 12:43:54.511 +03:00 [INF] Note added successfully for user ID 2.
+2024-07-24 13:29:00.738 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 13:29:04.528 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 13:29:05.306 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 13:29:05.307 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 13:29:30.033 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 13:29:31.423 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 13:29:31.515 +03:00 [INF] Fetching all users.
+2024-07-24 13:29:31.593 +03:00 [INF] Fetching all users.
+2024-07-24 13:29:39.186 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:29:39.189 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:29:39.214 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:29:39.230 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:33:00.562 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:33:00.566 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:33:25.519 +03:00 [INF] Deleting note with ID 19.
+2024-07-24 13:33:25.615 +03:00 [INF] Note with ID 19 marked as deleted.
+2024-07-24 13:33:54.965 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:33:54.968 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:33:55.005 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:33:55.010 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:34:27.157 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:35:02.512 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:35:02.516 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:35:02.528 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:35:02.533 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:35:08.691 +03:00 [INF] Updating note with ID 24.
+2024-07-24 13:35:08.723 +03:00 [INF] Note with ID 24 updated successfully.
+2024-07-24 13:35:10.245 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:35:10.251 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:35:12.808 +03:00 [INF] Deleting note with ID 25.
+2024-07-24 13:35:12.813 +03:00 [INF] Note with ID 25 marked as deleted.
+2024-07-24 13:35:24.236 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 13:35:24.238 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 13:35:24.253 +03:00 [INF] Fetching all users.
+2024-07-24 13:35:24.258 +03:00 [INF] Fetching all users.
+2024-07-24 13:37:01.014 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:37:01.017 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:37:01.032 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:37:01.037 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:38:14.590 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:38:14.593 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:38:14.627 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:38:14.639 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:40:55.120 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 13:40:55.775 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 13:40:56.524 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 13:40:56.525 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 13:41:11.553 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 13:41:12.783 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 13:41:12.861 +03:00 [INF] Fetching all users.
+2024-07-24 13:41:12.936 +03:00 [INF] Fetching all users.
+2024-07-24 13:41:35.020 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:41:35.025 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:41:35.042 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:41:35.065 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:41:43.043 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:41:43.049 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:42:07.578 +03:00 [INF] Adding new user with username kaan.
+2024-07-24 13:42:07.670 +03:00 [INF] User with username kaan added successfully.
+2024-07-24 13:42:57.761 +03:00 [INF] Adding new user with username mehmet.
+2024-07-24 13:42:57.768 +03:00 [INF] User with username mehmet added successfully.
+2024-07-24 13:45:22.338 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:45:22.341 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:45:22.357 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:45:22.363 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:45:35.609 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:45:35.620 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:47:22.570 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 13:47:22.574 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 13:47:22.594 +03:00 [INF] Fetching all users.
+2024-07-24 13:47:22.598 +03:00 [INF] Fetching all users.
+2024-07-24 13:49:41.005 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:49:41.010 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:49:41.037 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:49:41.043 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:49:48.353 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:49:48.359 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:50:13.293 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:50:13.298 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:50:13.313 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:50:13.318 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:50:19.807 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:50:19.812 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:57:45.366 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 13:57:46.141 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 13:57:46.616 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 13:57:46.618 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 13:58:12.631 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 13:58:13.813 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 13:58:13.905 +03:00 [INF] Fetching all users.
+2024-07-24 13:58:13.992 +03:00 [INF] Fetching all users.
+2024-07-24 13:58:23.823 +03:00 [INF] User login attempt with username elif.
+2024-07-24 13:58:23.827 +03:00 [INF] User elif logged in successfully.
+2024-07-24 13:58:23.849 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:58:23.872 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:59:27.557 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:59:27.565 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 13:59:36.375 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 13:59:36.493 +03:00 [INF] User with username anıl added successfully.
+2024-07-24 14:00:10.291 +03:00 [INF] User login attempt with username elif.
+2024-07-24 14:00:10.295 +03:00 [INF] User elif logged in successfully.
+2024-07-24 14:00:10.308 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:10.313 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:20.196 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:20.202 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:26.342 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:26.349 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:00:32.199 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:00:32.201 +03:00 [INF] User anıl logged in successfully.
+2024-07-24 14:00:32.216 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:00:32.218 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:00:32.236 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:00:32.241 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:00:40.011 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:00:40.015 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:00:40.017 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:00:40.020 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:01:05.823 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:05.826 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:01:12.262 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:12.265 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:01:13.088 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:13.090 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:01:14.856 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:14.858 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:01:15.096 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:15.098 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:01:31.447 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:01:31.451 +03:00 [INF] User anıl logged in successfully.
+2024-07-24 14:01:31.466 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:01:31.469 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:01:31.471 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:01:31.474 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:02:28.021 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 14:02:28.024 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 14:03:05.152 +03:00 [INF] Updating user with ID 2.
+2024-07-24 14:03:05.164 +03:00 [INF] User with ID 2 updated successfully.
+2024-07-24 14:04:12.295 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:04:12.298 +03:00 [INF] User anıl logged in successfully.
+2024-07-24 14:04:12.345 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:04:12.348 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:04:12.350 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:04:12.353 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:04:25.325 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:04:25.328 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:04:25.330 +03:00 [INF] Fetching notes for user ID 27.
+2024-07-24 14:04:25.332 +03:00 [INF] No notes found for user ID 27.
+2024-07-24 14:05:32.162 +03:00 [INF] Deleting user with ID 27.
+2024-07-24 14:05:32.167 +03:00 [INF] User with ID 27 deleted successfully.
+2024-07-24 14:06:43.188 +03:00 [INF] Uygulama başlatılıyor.
+2024-07-24 14:06:43.926 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-24 14:06:44.395 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-24 14:06:44.396 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-24 14:07:06.397 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:07:07.454 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:07:10.164 +03:00 [INF] User login attempt with username anıl.
+2024-07-24 14:07:10.180 +03:00 [WRN] Invalid login attempt for username anıl.
+2024-07-24 14:07:31.490 +03:00 [INF] User login attempt with username mehmet.
+2024-07-24 14:07:31.592 +03:00 [INF] User mehmet logged in successfully.
+2024-07-24 14:07:31.670 +03:00 [INF] Fetching notes for user ID 26.
+2024-07-24 14:07:31.713 +03:00 [INF] No notes found for user ID 26.
+2024-07-24 14:07:31.732 +03:00 [INF] Fetching notes for user ID 26.
+2024-07-24 14:07:31.740 +03:00 [INF] No notes found for user ID 26.
+2024-07-24 14:07:33.875 +03:00 [INF] Deleting user with ID 26.
+2024-07-24 14:07:33.948 +03:00 [INF] User with ID 26 deleted successfully.
+2024-07-24 14:07:52.245 +03:00 [INF] User login attempt with username kaan.
+2024-07-24 14:07:52.252 +03:00 [INF] User kaan logged in successfully.
+2024-07-24 14:07:52.270 +03:00 [INF] Fetching notes for user ID 25.
+2024-07-24 14:07:52.273 +03:00 [INF] No notes found for user ID 25.
+2024-07-24 14:07:52.276 +03:00 [INF] Fetching notes for user ID 25.
+2024-07-24 14:07:52.280 +03:00 [INF] No notes found for user ID 25.
+2024-07-24 14:08:00.412 +03:00 [INF] Updating user with ID 25.
+2024-07-24 14:08:00.417 +03:00 [INF] User with ID 25 updated successfully.
+2024-07-24 14:08:04.831 +03:00 [INF] Fetching notes for user ID 25.
+2024-07-24 14:08:04.835 +03:00 [INF] No notes found for user ID 25.
+2024-07-24 14:08:04.838 +03:00 [INF] Fetching notes for user ID 25.
+2024-07-24 14:08:04.841 +03:00 [INF] No notes found for user ID 25.
+2024-07-24 14:08:15.646 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 14:08:15.648 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 14:08:15.668 +03:00 [INF] Fetching all users.
+2024-07-24 14:08:15.701 +03:00 [INF] Fetching all users.
+2024-07-24 14:08:17.665 +03:00 [INF] Deleting user with ID 25.
+2024-07-24 14:08:17.668 +03:00 [INF] User with ID 25 deleted successfully.
+2024-07-24 14:08:26.762 +03:00 [INF] Adding new user with username kaan.
+2024-07-24 14:08:26.806 +03:00 [INF] User with username kaan added successfully.
+2024-07-24 14:08:51.266 +03:00 [INF] User login attempt with username kaan.
+2024-07-24 14:08:51.269 +03:00 [INF] User kaan logged in successfully.
+2024-07-24 14:08:51.289 +03:00 [INF] Fetching notes for user ID 28.
+2024-07-24 14:08:51.300 +03:00 [INF] No notes found for user ID 28.
+2024-07-24 14:08:51.303 +03:00 [INF] Fetching notes for user ID 28.
+2024-07-24 14:08:51.305 +03:00 [INF] No notes found for user ID 28.
+2024-07-24 14:09:07.184 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 14:09:07.189 +03:00 [INF] User with username anıl added successfully.
+2024-07-24 14:09:23.180 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 14:09:23.181 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 14:09:23.193 +03:00 [INF] Fetching all users.
+2024-07-24 14:09:23.199 +03:00 [INF] Fetching all users.
+2024-07-24 14:09:31.190 +03:00 [INF] User login attempt with username eliff.
+2024-07-24 14:09:31.191 +03:00 [INF] User eliff logged in successfully.
+2024-07-24 14:09:31.208 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:09:31.222 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:09:40.989 +03:00 [INF] Updating user with ID 2.
+2024-07-24 14:09:40.998 +03:00 [INF] User with ID 2 updated successfully.
+2024-07-24 14:09:43.565 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:09:43.569 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:50:10.393 +03:00 [INF] User login attempt with username elif.
+2024-07-24 14:50:10.401 +03:00 [INF] User elif logged in successfully.
+2024-07-24 14:50:10.413 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:50:10.417 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:50:21.360 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:50:21.366 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-24 14:50:27.855 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 14:50:27.857 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 14:50:27.890 +03:00 [INF] Fetching all users.
+2024-07-24 14:50:27.918 +03:00 [INF] Fetching all users.
+2024-07-24 14:50:46.624 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 14:50:46.626 +03:00 [WRN] Username anıl is already taken.
+2024-07-24 14:51:04.304 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 14:51:04.306 +03:00 [WRN] Username anıl is already taken.
+2024-07-24 14:51:57.691 +03:00 [INF] Adding new user with username ahmet.
+2024-07-24 14:51:57.696 +03:00 [INF] User with username ahmet added successfully.
+2024-07-24 14:52:24.477 +03:00 [INF] Adding new user with username ali.
+2024-07-24 14:52:24.480 +03:00 [INF] User with username ali added successfully.
+2024-07-24 14:52:37.976 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 14:52:37.977 +03:00 [WRN] Username anıl is already taken.
+2024-07-24 14:59:31.136 +03:00 [INF] Adding new user with username anıl.
+2024-07-24 14:59:31.143 +03:00 [WRN] Username anıl is already taken.
+2024-07-24 14:59:48.956 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 14:59:48.958 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 14:59:48.971 +03:00 [INF] Fetching all users.
+2024-07-24 14:59:48.976 +03:00 [INF] Fetching all users.
+2024-07-24 14:59:51.430 +03:00 [INF] Deleting user with ID 31.
+2024-07-24 14:59:51.434 +03:00 [INF] User with ID 31 deleted successfully.
+2024-07-24 14:59:59.440 +03:00 [INF] Adding new user with username ali.
+2024-07-24 14:59:59.444 +03:00 [INF] User with username ali added successfully.
+2024-07-24 15:00:24.400 +03:00 [INF] Adding new user with username a.
+2024-07-24 15:00:24.403 +03:00 [INF] User with username a added successfully.
+2024-07-24 15:00:50.383 +03:00 [INF] Adding new user with username b.
+2024-07-24 15:00:50.388 +03:00 [INF] User with username b added successfully.
+2024-07-24 15:04:13.170 +03:00 [INF] Adding new user with username aaa.
+2024-07-24 15:04:13.175 +03:00 [INF] User with username aaa added successfully.
+2024-07-24 15:04:22.518 +03:00 [INF] User login attempt with username aaa.
+2024-07-24 15:04:22.521 +03:00 [INF] User aaa logged in successfully.
+2024-07-24 15:04:22.534 +03:00 [INF] Fetching notes for user ID 35.
+2024-07-24 15:04:22.536 +03:00 [INF] No notes found for user ID 35.
+2024-07-24 15:04:22.539 +03:00 [INF] Fetching notes for user ID 35.
+2024-07-24 15:04:22.541 +03:00 [INF] No notes found for user ID 35.
+2024-07-24 15:04:25.614 +03:00 [INF] Deleting user with ID 35.
+2024-07-24 15:04:25.618 +03:00 [INF] User with ID 35 deleted successfully.
+2024-07-24 15:04:34.992 +03:00 [INF] User login attempt with username beyza.
+2024-07-24 15:04:34.993 +03:00 [INF] User beyza logged in successfully.
+2024-07-24 15:04:35.010 +03:00 [INF] Fetching all users.
+2024-07-24 15:04:35.015 +03:00 [INF] Fetching all users.
+2024-07-24 15:04:37.443 +03:00 [INF] Deleting user with ID 34.
+2024-07-24 15:04:37.445 +03:00 [INF] User with ID 34 deleted successfully.
+2024-07-24 15:04:38.890 +03:00 [INF] Deleting user with ID 33.
+2024-07-24 15:04:38.892 +03:00 [INF] User with ID 33 deleted successfully.

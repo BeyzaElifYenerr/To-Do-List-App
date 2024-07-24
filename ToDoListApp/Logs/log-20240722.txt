@@ -1,0 +1,14 @@
+2024-07-22 08:39:41.697 +03:00 [INF] Application is starting...
+2024-07-22 08:39:44.586 +03:00 [WRN] The WebRootPath was not found: C:\Users\beyzy\source\repos\ToDoListApp\ToDoListApp\wwwroot. Static files may be unavailable.
+2024-07-22 08:39:45.388 +03:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2024-07-22 08:39:45.401 +03:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-07-22 08:40:01.521 +03:00 [INF] User login attempt with username elif.
+2024-07-22 08:40:02.545 +03:00 [INF] User elif logged in successfully.
+2024-07-22 08:41:09.494 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 08:41:28.067 +03:00 [INF] Fetching all notes for user ID 2.
+2024-07-22 08:42:19.113 +03:00 [INF] User login attempt with username elif.
+2024-07-22 08:42:19.118 +03:00 [INF] User elif logged in successfully.
+2024-07-22 08:42:19.129 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 08:42:19.135 +03:00 [INF] Fetching notes for user ID 2.
+2024-07-22 08:42:37.495 +03:00 [INF] Adding new note for user ID 2.
+2024-07-22 08:42:37.564 +03:00 [INF] Note added successfully for user ID 2.
